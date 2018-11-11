@@ -13,13 +13,13 @@ r -> **
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
      
 R -> **  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
       
 L -> *  
-     **  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  
      
 J -> **  
-      *  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
 
 
 r r \# r r  
