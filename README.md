@@ -10,10 +10,10 @@ input
 \* \* \# * *  
 
 r -> **  
-&nbsp;*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
      
 R -> **  
-      *  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*  
       
 L -> *  
      **  
