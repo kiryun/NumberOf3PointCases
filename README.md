@@ -18,7 +18,7 @@ R -> **
 L -> *  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  
      
-J -> *  
+J -> &nbsp;*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  
 
 
